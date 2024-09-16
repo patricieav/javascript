@@ -1,0 +1,40 @@
+div {
+    background-color: rgb(38, 2, 104);
+    color: bisque;
+    text-align: center;
+}
+
+html {background-color: rgb(149, 250, 250);
+color: rgb(58, 9, 150);}
+
+img {
+    height: 450px;
+    width: 900px;
+    margin: 25%;
+    margin-top: 250px;    
+}
+
+span {
+    font-weight: bold;
+    color: rgb(216, 12, 12);
+}
+
+header {
+    color: bisque;
+}
+
+.era{
+    text-align: center;
+    color: rgb(38, 2, 104);
+    margin-top: 75px;
+    font-style: italic;
+}
+
+#guest {
+    font-size: larger;    
+    
+}
+p {
+    font-size: 20px
+}
+
