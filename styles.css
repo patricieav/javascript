@@ -38,3 +38,31 @@ p {
     font-size: 20px
 }
 
+.number{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#quote{color: white;
+        font-size: 100px;
+        text-align: center;
+        background-color: black;
+        /* size: width 700px ;
+        height: 400px; */
+        }
+
+.links{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#websites{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+
