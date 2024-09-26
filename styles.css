@@ -35,7 +35,8 @@ header {
     
 }
 p {
-    font-size: 20px
+    font-size: 20px;
+    text-align: center;
 }
 
 .number{
@@ -45,7 +46,7 @@ p {
 }
 
 #quote{color: white;
-        font-size: 100px;
+        font-size: 75px;
         text-align: center;
         background-color: black;
         /* size: width 700px ;
@@ -75,7 +76,7 @@ p {
 }
 
 #secret p {
-    font-size: 150px;
+    font-size: 100px;
     background-color: black;
     color: yellow;
     text-align: center;
