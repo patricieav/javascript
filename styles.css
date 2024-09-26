@@ -86,9 +86,14 @@ img {
     margin: 0px;
     max-width: 100%;
     height:auto;
-    
 }
 
 #photo {
     background-color: black;
+}
+
+@media(max-width: 450px) {
+    #secret p {
+        font-size: 25px;
+    }
 }
